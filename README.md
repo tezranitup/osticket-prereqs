@@ -60,6 +60,6 @@ The next step you have to go to files paste this in the search bar C:\inetpub\ww
 <img src="https://i.imgur.com/eeioJxs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When you get to the this part you have to to fill out the information that they gave you 
+When you get to the this part you have to to fill out your information to get the information form the last seection you have to download heidi once it is downloaded click on new then create a password for root after that right click unnamed then new database and name it osTicket so the information you just created add it to the last section and you should able to intall and once you've done that change the ost-config.php file to everyone can only read and write.
 </p>
 <br />
