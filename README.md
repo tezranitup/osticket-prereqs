@@ -30,9 +30,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/KlhRy40.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ofKWtIn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+the very first step in installing osTicket is downloading IIS, in order to do that you have to right click the start button and click on each of the folders that I highlighted(make sure the the boxs are colored in) after that check the box that says CGI.
+https
+<img src="https://i.imgur.com/KlhRy40.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+/p>
 <p>
 During this course I had learned that in order to get started with osTicket, first you have to download all the installations listed above. I was givin links by my course careers instructor in order to download all the correct installations.
 </p>
@@ -46,9 +50,17 @@ After you download the installatons for osTicket you have to enable the three ex
 <br />
 
 <p>
+<img src="https://i.imgur.com/CC5w55v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next step you have to go to files paste this in the search bar C:\inetpub\wwwroot\osTicket\include then look for the file that says ost-sampleconfig.php and change it to ost-config.php then, right click it go to properties, go to the tab that says security then click on advanced disable all inheritance once you do that press add then select a principal and name it eveyone and give everyone full conrol then click apply.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/eeioJxs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When you get to the this part you have to to fill out the information that they gave you 
 </p>
 <br />
